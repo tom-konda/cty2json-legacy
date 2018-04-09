@@ -10,8 +10,8 @@ Node.js では、次のリリースからサポート対象が最新の LTS の�
 Micropolisのcty形式のファイルをJavaScriptを使用して、JSONに変換します。
 
 ## 対応ブラウザ
-* Firefox、Chromiumで動作確認
-* IE 11、Microsoft Edge、Google Chrome、Opera、Safari はおそらく動作するはず
+* Firefox、Google Chromeで動作確認
+* Microsoft Edge、Safari はおそらく動作するはず
 
 ## 対応 Node.js バージョン
 
