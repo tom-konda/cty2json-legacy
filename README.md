@@ -1,6 +1,6 @@
 Cty2JSON: https://github.com/tom-konda/cty2json-legacy
 
-[![Build Status](https://travis-ci.org/tom-konda/cty2json.svg?branch=master)](https://travis-ci.org/tom-konda/cty2json)
+[![Build Status](https://travis-ci.org/tom-konda/cty2json-legacy.svg?branch=master)](https://travis-ci.org/tom-konda/cty2json-legacy)
 
 ## CAUTION
 
