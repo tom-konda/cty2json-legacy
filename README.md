@@ -15,7 +15,6 @@ This JavaScript library converts from .cty file (Micropolis format) to JSON.
 
 ## Support Node.js versions
 
-* 4.x LTS
 * 6.x LTS
 * 8.x LTS
 

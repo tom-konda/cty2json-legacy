@@ -35,7 +35,7 @@
   "author": "Tom Konda",
   "license": "GPL-3.0",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.0.0"
   },
   "directories": {
     "test": "src/test/"

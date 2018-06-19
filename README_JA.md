@@ -15,7 +15,6 @@ Micropolisのcty形式のファイルをJavaScriptを使用して、JSONに変�
 
 ## 対応 Node.js バージョン
 
-* 4.x LTS
 * 6.x LTS
 * 8.x LTS
 
