@@ -2,9 +2,9 @@ Cty2JSON: https://github.com/tom-konda/cty2json-legacy
 
 [![Build Status](https://travis-ci.org/tom-konda/cty2json-legacy.svg?branch=master)](https://travis-ci.org/tom-konda/cty2json-legacy)
 
-## CAUTION
+## Notice
 
-On Node.js, this library will support only latest LTS from next release.
+If you use Node.js LTS, you can use [newer version](https://github.com/tom-konda/cty2json).
 
 ## About
 This JavaScript library converts from .cty file (Micropolis format) to JSON.
