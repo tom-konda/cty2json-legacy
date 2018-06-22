@@ -11,10 +11,9 @@ const bannerText = `
 `
 
 export default {
-  banner: bannerText.trim(),
   input: './lib/cty2json.js',
   external: ['fs'],
   output: [
-    { file: 'lib/cty2json.js', format: 'es' },
+    { file: 'lib/cty2json.js', format: 'es', banner: bannerText.trim(),},
   ],
 }
