@@ -2113,9 +2113,9 @@ typedoc-default-themes@^0.6.0-0:
     lunr "^2.3.6"
     underscore "^1.9.1"
 
-typedoc@TypeStrong/typedoc#0.15.0-0:
+typedoc@^0.15.0-0:
   version "0.15.0-0"
-  resolved "https://codeload.github.com/TypeStrong/typedoc/tar.gz/f94d578709ff0ec683a4c5712dcff1c74f0a8a71"
+  resolved "https://registry.yarnpkg.com/typedoc/-/typedoc-0.15.0-0.tgz#4d0acd8697c22824fb51fff68766fd435b99163d"
   dependencies:
     "@types/fs-extra" "^5.0.5"
     "@types/highlight.js" "^9.12.3"
