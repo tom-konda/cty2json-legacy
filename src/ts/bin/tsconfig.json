@@ -2,8 +2,9 @@
   "extends": "../base-config/tsconfig.json",
   "compilerOptions": {
     "module": "commonjs",
+    "target": "es2017",
     "lib": [
-      "es2017"
+      "es2017",
     ],
     "typeRoots": [
       "node_modules/@types",

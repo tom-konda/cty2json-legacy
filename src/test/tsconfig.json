@@ -13,7 +13,6 @@
     ],
     "types": [
       "node",
-      "jsdom",
       "mocha",
       "tmp",
       "cty2json"
